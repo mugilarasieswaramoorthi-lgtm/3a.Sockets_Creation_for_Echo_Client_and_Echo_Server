@@ -15,17 +15,16 @@ client.py
 <img width="464" height="412" alt="image" src="https://github.com/user-attachments/assets/e3690e11-faa6-48c3-a6ed-030d13247ebb" />
 
 
-seriver.py
+server.py
 
-<img width="332" height="67" alt="image" src="https://github.com/user-attachments/assets/049c99b0-d3be-49e2-8106-e9e4a8767e46" />
+<img width="452" height="256" alt="image" src="https://github.com/user-attachments/assets/e3263c03-97a0-439d-a845-c7f3fb2a55e1" />
 
 
 ## OUPUT
 
 client.py
 
-<img width="452" height="256" alt="image" src="https://github.com/user-attachments/assets/e3263c03-97a0-439d-a845-c7f3fb2a55e1" />
-
+<img width="332" height="67" alt="image" src="https://github.com/user-attachments/assets/049c99b0-d3be-49e2-8106-e9e4a8767e46" />
 
 server.py
 
